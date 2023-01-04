@@ -1,4 +1,4 @@
-<h1> 👀 Landing page para o Balle Bot <h1>
+<h1> Landing page para o Balle Bot <h1>
 
 <h4> Projeto de uma landing page para o Balle Bot, com o conteúdo disponibilizado pelo canal do Youtube da Rafaella Ballerini. <h4>
 
